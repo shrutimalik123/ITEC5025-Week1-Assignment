@@ -1,7 +1,7 @@
 """
 Course: ITEC5025
 Assignment: Week 1 - Basic Python Program
-Author: [Your Name]
+Author: Shruti Malik
 Date: 2026-01-12
 
 Description: 
